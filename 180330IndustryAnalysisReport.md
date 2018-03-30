@@ -1,5 +1,3 @@
-![](https://ws1.sinaimg.cn/large/006tKfTcly1fpum1grg2yj31kw0w1acr.jpg)
-
 # 知识付费产业分析报告
 2018.03.29 绯闻天团
 
