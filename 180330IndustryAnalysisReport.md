@@ -175,6 +175,10 @@
 
 5.用户画像
 
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fpuo9v4tvuj30sg0fyacl.jpg)
+
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fpuo9msyidj30sh0fzq66.jpg)
+
 
 6.竞品分析
 
