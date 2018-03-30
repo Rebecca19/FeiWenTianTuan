@@ -16,6 +16,8 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*TtHzO53bt3goUAaQbRIeig.jpeg)
 
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fpuw7348vxj31jc13kngu.jpg)
+
 #### 故事2
 
 我是一个 1 岁的职场新人，每天工作重复辛苦、没有成就感，很想跳槽，又担心自己能力不够匹配到互联网公司，身边人很少有人能告诉我
