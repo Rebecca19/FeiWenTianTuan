@@ -1,5 +1,3 @@
-![](https://ws1.sinaimg.cn/large/006tKfTcly1fpum1grg2yj31kw0w1acr.jpg)
-
 # 知识付费产业分析报告
 2018.03.29 绯闻天团
 
@@ -176,6 +174,10 @@
 我们想切入这个问题加以探讨与解决。
 
 #### 5.用户画像
+
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fpuo9v4tvuj30sg0fyacl.jpg)
+
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fpuo9msyidj30sh0fzq66.jpg)
 
 
 #### 6.竞品分析
