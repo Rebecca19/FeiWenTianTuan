@@ -177,19 +177,54 @@
 
 #### 5.用户画像
 
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fpunk8ipuej31ey0smki4.jpg)
+
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fpunliwm9tj30si0fzgp2.jpg)
 
 #### 6.竞品分析
 
-
+橙子学院
 
 ![](https://ws4.sinaimg.cn/large/006tKfTcly1fpumk9fhmrj31d20rkn2r.jpg)
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcly1fpumktcah1j31d20rk79w.jpg)
 
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fpunnr4egoj31d20roq7y.jpg)
+
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fpuno6wfaoj31d00ro7a6.jpg)
+
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fpunoix3ksj31d20rmwki.jpg)
+
+趁早
+
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fpunorf1ajj31cy0rkn1d.jpg)
+
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fpunp1a7gsj31cy0rmgvk.jpg)
+
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fpunpcm2myj31d20rogqf.jpg)
+
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fpunpprtwcj31d20rmgsm.jpg)
+
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fpunpzthw8j31d00rkzoq.jpg)
+
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fpunqv9o4lj31cu0rggpx.jpg)
+
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fpunr4tjhjj31cy0ridkk.jpg)
+
+竞品小结：
+
+知识付费行业处于爆发期，但市场处于鱼龙混杂的状态，职场人永远是刚需群。像趁早、橙子学院这种针对某个细分分群的知识付费，是冲出得到、喜马拉雅等行业头部的一条路。
+
+但同时对产品的功能、运营服务提出了更高要求：满足不同人群的产品功能+精细化运营，同时更加注重后期服务。
+
+此外，培养种子用户的时间会越来越长，趁早和橙子学院都是早期经过几年的时间积累种子用户和口碑，才会厚积薄发。
+
+我们产品需要找到更细分的切入点，针对具体场景给出相应解决方案。（这句没太想好）
+
+
 
 
 ## 参考文献：
-
 * [QuestMobile：2017移动互联网知识付费行业新观察-Useit 知识库](http://www.useit.com.cn/thread-15735-1-1.html)
 * [TopKlout克劳锐：2017自媒体知识付费行业研究报告-Useit 知识库](http://www.useit.com.cn/thread-16249-1-1.html)
 * [中国知识付费行业发展白皮书2017](https://www.analysys.cn/analysis/trade/detail/1001061/)
@@ -201,8 +236,5 @@
 * [我们研究了28家平台，为你揭开知识付费的现状与未来](https://36kr.com/p/5073744.html)
 * [这一波知识付费：一个机会，两种能力，三个要点](https://mp.weixin.qq.com/s?__biz=MzI2NTY4MDg1NA==&mid=2247486955&amp;idx=1&amp;sn=f9fd3bd6aa6fea7c52ce97239ad92370&source=41#wechat_redirect)
 
-## CHANGELOG
-+ 180328 王彭创建
-+ 180329 一锋增补产业地图，松果/宏玉增补竞品
-+ 180330 琼月增补用户故事
-+ 180330 王彭整合
+## CHANGLOG
++ 180330 创建整合

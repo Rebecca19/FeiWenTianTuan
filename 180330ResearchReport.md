@@ -55,10 +55,8 @@
 一般解决方案：发现自己欠缺，主动找一些优质课程直接学习和练习
 
 
-用户信息表：
-https://shimo.im/sheet/b94ylZQISiMc7VKN/ 
-组内调研资料：
-http://note.youdao.com/noteshare?id=b035c8a2088777427746c73287e9d925
+[用户信息表：](https://shimo.im/sheet/b94ylZQISiMc7VKN/)
+[组内调研资料：](http://note.youdao.com/noteshare?id=35c25f2b9516947427fad723a85e3b49)
 
 
 
